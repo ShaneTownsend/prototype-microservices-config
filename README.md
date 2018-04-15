@@ -1,2 +1,2 @@
 # prototype-microservices-config
-Microseconds configuration repository for a prototype project
+Microservice configuration repository for a prototype project
